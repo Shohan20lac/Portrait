@@ -1,4 +1,4 @@
 # Portrait_v2
 A resume management app, remade as a desktop-first portfolio website
 
-![alt text](https://github.com/Shohan20lac/Portrait_v2/main/plan.jpg?raw=true)
+![plan](https://user-images.githubusercontent.com/63243156/213923735-4ffdc267-9d86-4ba3-90ee-5e0602dbcf27.jpg)
